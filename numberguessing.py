@@ -1,5 +1,7 @@
 import random
 from datetime import datetime
+print("Best number guessing game")
+print("making some changes")
 def play():
     r = random.randint(1,10)
     print("Choose a level:E for Easy,M for medium, H for hard")
